@@ -1,12 +1,12 @@
 ## Question 3
-Pretty Straightforward
+Pretty Straight forward
 
 #### Tools
  - Kotlin
 
 #### Compilation
 ``` bash
-kotlinc Instaclustr.kt -include-runtime -d Instaclustr.jar
+    kotlinc Instaclustr.kt -include-runtime -d Instaclustr.jar
 ```
 
 #### Executing Program
