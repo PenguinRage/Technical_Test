@@ -1,5 +1,5 @@
 #!/bin/bash
-# Non-accessible
+
 # Just a quick script to create directories and READMEs
 
 for i in {2..9}; do
