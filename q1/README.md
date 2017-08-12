@@ -14,3 +14,6 @@ Computers store data in a series of directories. Each directory, or folder, may 
     ./q1.sh <directory name>
 
 ```
+
+
+
