@@ -26,7 +26,7 @@ find . -name $1 | xargs -I dir find dir -type f | xargs wc -w
 
 ```
 
-##### Extension
+### Extension
 Used awk to create a mapping of alphabetical letters ignoring upper and lowercase size. Alphabetical characters are counted and then printed out to give results and histogram.
 ##### Executable
 ``` bash
