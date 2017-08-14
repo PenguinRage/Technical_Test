@@ -32,14 +32,14 @@ public class CRNG {
         if (args.length == 0) {
             System.out.println("Give the program a number");
             n_threads = scanner.nextInt();
-            scanner.close();
+
+
         } else {
             try {
                 n_threads = Integer.parseInt(args[0]);
             } catch (NumberFormatException e) {
                 System.out.println("Args is not a number, Enter one now");
                 n_threads = scanner.nextInt();
-                scanner.close();
             }
         }
 
@@ -53,10 +53,10 @@ public class CRNG {
                 Thread numthread = new Numthread();
                 numthread.start();
             }
-            //
-            System.out.println("Press enter to stop RNG threads");
+
+            System.out.println("Enter # to stop RNG threads and print results of last 30 RNG numbers");
             while (init.get()) {
-                if (scanner.nextLine().isEmpty()) {
+                if (scanner.nextLine().equals("#")) {
                     init.set(false);
                 }
             }
