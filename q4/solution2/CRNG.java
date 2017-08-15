@@ -14,12 +14,14 @@ public class CRNG {
             Random random = new Random();
             while (init.get()) {
                 // list is a synchronised list and operations add and remove are thread-safe
+                
+                synchronized (list) { // entering critical section both add and remove are one operation.
+                    // Elements enter appended and leave from index 0
+                    list.add(random.nextInt(10) + 1);
+                    // Elements leave from the front as list.remove(index 0)
+                    if (list.size() >= 31) list.remove(0);
+                }
 
-                // Elements enter appended and leave from index 0
-                list.add(random.nextInt(10) + 1);
-
-                // Elements leave from the front as list.remove(index 0)
-                if (list.size() >= 31) list.remove(0);
             }
         }
     }

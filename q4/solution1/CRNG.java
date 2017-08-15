@@ -12,6 +12,12 @@ public class CRNG {
             Random random = new Random();
 
             while (true) {
+                int[] f_arr = new int[11];
+
+                int freq = 0, count= 0;
+                int avg = 0;
+                
+                synchronized (list) {
                 // list is a synchronised list and operations add and remove are thread-safe
                 list.add(random.nextInt(10) + 1);
                 if (list.size() >= 31) list.remove(0);
@@ -19,18 +25,14 @@ public class CRNG {
                 // Concurrently prints the results out
                 System.out.println("max: " + Collections.max(list));
                 System.out.println("min: " + Collections.min(list));
-                int[] f_arr = new int[11];
-
-                int freq = 0, count= 0;
-                int avg = 0;
-                // iteration of list requires synchronisation
-                synchronized (list) {
+               // iteration of list requires synchronisation
                     for (int num : list) {
                         avg += num;
                         f_arr[num]++;
                     }
                     avg = avg/list.size();
                 }
+                
                 System.out.println("avg: " + avg);
 
                 for (int i = 1; i < f_arr.length; i++) {
