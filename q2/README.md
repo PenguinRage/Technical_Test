@@ -27,7 +27,7 @@ The results from dmesg gave me a whole lot of "Uh oh! That's an error." that con
 **Results**
 More error messages from kernel again and this time logger showing another Error. I used scp to copy it accross to my laptop for record keeping.
 
-[syslog output]()
+[syslog output](https://github.com/PenguinRage/Interview_challenge/blob/master/q2/evidence/syslog)
 
 - *top*  program provides a dynamic real-time view of a running system. In my case I used htop.
 
