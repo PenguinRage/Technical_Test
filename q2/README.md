@@ -34,7 +34,7 @@ More error messages from kernel again and this time logger showing another Error
 
 **Results**
 
-Noticed mem usage was high looked for the source of high usage and determined it to be a python script. Furthermore from the python script I determined the location of the hidden folder containing the location of the test programs.
+Noticed mem usage was high, looked for the source of high usage and determined it to be a python script. Furthermore from the python script I determined the location of the hidden folder containing the location of the test programs.
 
 ![htop results](./evidence/htop.png)
 
