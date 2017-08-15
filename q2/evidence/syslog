@@ -1,0 +1,587 @@
+Aug 14 06:33:44 ip-172-31-31-181 logger: instaclustr Uh oh! That's another error.
+Aug 14 06:35:28 ip-172-31-31-181 CRON[9760]: (CRON) info (No MTA installed, discarding output)
+Aug 14 06:38:44 ip-172-31-31-181 kernel: [505805.665837] Uh oh! That's an error.
+Aug 14 06:38:44 ip-172-31-31-181 logger: instaclustr Uh oh! That's another error.
+Aug 14 06:43:44 ip-172-31-31-181 kernel: [506105.669672] Uh oh! That's an error.
+Aug 14 06:43:44 ip-172-31-31-181 logger: instaclustr Uh oh! That's another error.
+Aug 14 06:48:39 ip-172-31-31-181 dhclient: DHCPREQUEST of 172.31.31.181 on eth0 to 172.31.16.1 port 67 (xid=0xec6b854)
+Aug 14 06:48:39 ip-172-31-31-181 dhclient: DHCPACK of 172.31.31.181 from 172.31.16.1
+Aug 14 06:48:39 ip-172-31-31-181 dhclient: bound to 172.31.31.181 -- renewal in 1401 seconds.
+Aug 14 06:48:44 ip-172-31-31-181 logger: instaclustr Uh oh! That's another error.
+Aug 14 06:48:44 ip-172-31-31-181 kernel: [506405.671101] Uh oh! That's an error.
+Aug 14 06:53:44 ip-172-31-31-181 kernel: [506705.672770] Uh oh! That's an error.
+Aug 14 06:58:44 ip-172-31-31-181 kernel: [507005.674207] Uh oh! That's an error.
+Aug 14 07:03:44 ip-172-31-31-181 kernel: [507305.675610] Uh oh! That's an error.
+Aug 14 07:08:44 ip-172-31-31-181 kernel: [507605.677220] Uh oh! That's an error.
+Aug 14 07:08:44 ip-172-31-31-181 logger: message repeated 4 times: [ instaclustr Uh oh! That's another error.]
+Aug 14 07:12:00 ip-172-31-31-181 dhclient: DHCPREQUEST of 172.31.31.181 on eth0 to 172.31.16.1 port 67 (xid=0xec6b854)
+Aug 14 07:12:00 ip-172-31-31-181 dhclient: DHCPACK of 172.31.31.181 from 172.31.16.1
+Aug 14 07:12:00 ip-172-31-31-181 dhclient: bound to 172.31.31.181 -- renewal in 1742 seconds.
+Aug 14 07:13:44 ip-172-31-31-181 logger: instaclustr Uh oh! That's another error.
+Aug 14 07:13:44 ip-172-31-31-181 kernel: [507905.678911] Uh oh! That's an error.
+Aug 14 07:17:01 ip-172-31-31-181 CRON[9966]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Aug 14 07:18:44 ip-172-31-31-181 logger: instaclustr Uh oh! That's another error.
+Aug 14 07:18:44 ip-172-31-31-181 kernel: [508205.680608] Uh oh! That's an error.
+Aug 14 07:23:44 ip-172-31-31-181 kernel: [508505.682233] Uh oh! That's an error.
+Aug 14 07:28:44 ip-172-31-31-181 kernel: [508805.683881] Uh oh! That's an error.
+Aug 14 07:33:44 ip-172-31-31-181 kernel: [509105.685588] Uh oh! That's an error.
+Aug 14 07:38:44 ip-172-31-31-181 kernel: [509405.687265] Uh oh! That's an error.
+Aug 14 07:38:44 ip-172-31-31-181 logger: message repeated 4 times: [ instaclustr Uh oh! That's another error.]
+Aug 14 07:41:02 ip-172-31-31-181 dhclient: DHCPREQUEST of 172.31.31.181 on eth0 to 172.31.16.1 port 67 (xid=0xec6b854)
+Aug 14 07:41:02 ip-172-31-31-181 dhclient: DHCPACK of 172.31.31.181 from 172.31.16.1
+Aug 14 07:41:02 ip-172-31-31-181 dhclient: bound to 172.31.31.181 -- renewal in 1735 seconds.
+Aug 14 07:43:44 ip-172-31-31-181 logger: instaclustr Uh oh! That's another error.
+Aug 14 07:43:44 ip-172-31-31-181 kernel: [509705.689017] Uh oh! That's an error.
+Aug 14 07:48:44 ip-172-31-31-181 kernel: [510005.690637] Uh oh! That's an error.
+Aug 14 07:53:44 ip-172-31-31-181 kernel: [510305.692298] Uh oh! That's an error.
+Aug 14 07:58:44 ip-172-31-31-181 kernel: [510605.693894] Uh oh! That's an error.
+Aug 14 08:03:44 ip-172-31-31-181 kernel: [510905.695568] Uh oh! That's an error.
+Aug 14 08:08:44 ip-172-31-31-181 kernel: [511205.697333] Uh oh! That's an error.
+Aug 14 08:08:44 ip-172-31-31-181 logger: message repeated 5 times: [ instaclustr Uh oh! That's another error.]
+Aug 14 08:09:57 ip-172-31-31-181 dhclient: DHCPREQUEST of 172.31.31.181 on eth0 to 172.31.16.1 port 67 (xid=0xec6b854)
+Aug 14 08:09:57 ip-172-31-31-181 dhclient: DHCPACK of 172.31.31.181 from 172.31.16.1
+Aug 14 08:09:57 ip-172-31-31-181 dhclient: bound to 172.31.31.181 -- renewal in 1649 seconds.
+Aug 14 08:13:44 ip-172-31-31-181 logger: instaclustr Uh oh! That's another error.
+Aug 14 08:13:44 ip-172-31-31-181 kernel: [511505.699014] Uh oh! That's an error.
+Aug 14 08:17:01 ip-172-31-31-181 CRON[10015]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Aug 14 08:18:44 ip-172-31-31-181 logger: instaclustr Uh oh! That's another error.
+Aug 14 08:18:44 ip-172-31-31-181 kernel: [511805.700674] Uh oh! That's an error.
+Aug 14 08:23:44 ip-172-31-31-181 kernel: [512105.702272] Uh oh! That's an error.
+Aug 14 08:28:44 ip-172-31-31-181 kernel: [512405.703904] Uh oh! That's an error.
+Aug 14 08:33:44 ip-172-31-31-181 kernel: [512705.705571] Uh oh! That's an error.
+Aug 14 08:33:44 ip-172-31-31-181 logger: message repeated 3 times: [ instaclustr Uh oh! That's another error.]
+Aug 14 08:37:27 ip-172-31-31-181 dhclient: DHCPREQUEST of 172.31.31.181 on eth0 to 172.31.16.1 port 67 (xid=0xec6b854)
+Aug 14 08:37:27 ip-172-31-31-181 dhclient: DHCPACK of 172.31.31.181 from 172.31.16.1
+Aug 14 08:37:27 ip-172-31-31-181 dhclient: bound to 172.31.31.181 -- renewal in 1566 seconds.
+Aug 14 08:38:44 ip-172-31-31-181 kernel: [513005.707276] Uh oh! That's an error.
+Aug 14 08:38:44 ip-172-31-31-181 logger: instaclustr Uh oh! That's another error.
+Aug 14 08:43:44 ip-172-31-31-181 kernel: [513305.709010] Uh oh! That's an error.
+Aug 14 08:48:44 ip-172-31-31-181 kernel: [513605.710431] Uh oh! That's an error.
+Aug 14 08:53:44 ip-172-31-31-181 kernel: [513905.712012] Uh oh! That's an error.
+Aug 14 08:58:44 ip-172-31-31-181 kernel: [514205.713680] Uh oh! That's an error.
+Aug 14 08:58:44 ip-172-31-31-181 logger: message repeated 4 times: [ instaclustr Uh oh! That's another error.]
+Aug 14 09:03:33 ip-172-31-31-181 dhclient: DHCPREQUEST of 172.31.31.181 on eth0 to 172.31.16.1 port 67 (xid=0xec6b854)
+Aug 14 09:03:33 ip-172-31-31-181 dhclient: DHCPACK of 172.31.31.181 from 172.31.16.1
+Aug 14 09:03:33 ip-172-31-31-181 dhclient: bound to 172.31.31.181 -- renewal in 1364 seconds.
+Aug 14 09:03:44 ip-172-31-31-181 kernel: [514505.715380] Uh oh! That's an error.
+Aug 14 09:03:44 ip-172-31-31-181 logger: instaclustr Uh oh! That's another error.
+Aug 14 09:08:44 ip-172-31-31-181 kernel: [514805.717038] Uh oh! That's an error.
+Aug 14 09:13:44 ip-172-31-31-181 kernel: [515105.718605] Uh oh! That's an error.
+Aug 14 09:13:44 ip-172-31-31-181 logger: message repeated 2 times: [ instaclustr Uh oh! That's another error.]
+Aug 14 09:17:01 ip-172-31-31-181 CRON[10064]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Aug 14 09:18:44 ip-172-31-31-181 logger: instaclustr Uh oh! That's another error.
+Aug 14 09:18:44 ip-172-31-31-181 kernel: [515405.720260] Uh oh! That's an error.
+Aug 14 09:23:44 ip-172-31-31-181 kernel: [515705.721939] Uh oh! That's an error.
+Aug 14 09:23:44 ip-172-31-31-181 logger: instaclustr Uh oh! That's another error.
+Aug 14 09:26:17 ip-172-31-31-181 dhclient: DHCPREQUEST of 172.31.31.181 on eth0 to 172.31.16.1 port 67 (xid=0xec6b854)
+Aug 14 09:26:17 ip-172-31-31-181 dhclient: DHCPACK of 172.31.31.181 from 172.31.16.1
+Aug 14 09:26:17 ip-172-31-31-181 dhclient: bound to 172.31.31.181 -- renewal in 1608 seconds.
+Aug 14 09:28:44 ip-172-31-31-181 kernel: [516005.723575] Uh oh! That's an error.
+Aug 14 09:28:44 ip-172-31-31-181 logger: instaclustr Uh oh! That's another error.
+Aug 14 09:33:44 ip-172-31-31-181 kernel: [516305.725133] Uh oh! That's an error.
+Aug 14 09:38:44 ip-172-31-31-181 kernel: [516605.726756] Uh oh! That's an error.
+Aug 14 09:43:44 ip-172-31-31-181 kernel: [516905.728415] Uh oh! That's an error.
+Aug 14 09:48:44 ip-172-31-31-181 kernel: [517205.730091] Uh oh! That's an error.
+Aug 14 09:48:44 ip-172-31-31-181 logger: message repeated 4 times: [ instaclustr Uh oh! That's another error.]
+Aug 14 09:53:05 ip-172-31-31-181 dhclient: DHCPREQUEST of 172.31.31.181 on eth0 to 172.31.16.1 port 67 (xid=0xec6b854)
+Aug 14 09:53:05 ip-172-31-31-181 dhclient: DHCPACK of 172.31.31.181 from 172.31.16.1
+Aug 14 09:53:05 ip-172-31-31-181 dhclient: bound to 172.31.31.181 -- renewal in 1496 seconds.
+Aug 14 09:53:44 ip-172-31-31-181 kernel: [517505.731717] Uh oh! That's an error.
+Aug 14 09:53:44 ip-172-31-31-181 logger: instaclustr Uh oh! That's another error.
+Aug 14 09:58:44 ip-172-31-31-181 kernel: [517805.733388] Uh oh! That's an error.
+Aug 14 10:03:44 ip-172-31-31-181 kernel: [518105.735042] Uh oh! That's an error.
+Aug 14 10:08:44 ip-172-31-31-181 kernel: [518405.736686] Uh oh! That's an error.
+Aug 14 10:13:44 ip-172-31-31-181 kernel: [518705.738341] Uh oh! That's an error.
+Aug 14 10:13:44 ip-172-31-31-181 logger: message repeated 4 times: [ instaclustr Uh oh! That's another error.]
+Aug 14 10:17:01 ip-172-31-31-181 CRON[10113]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Aug 14 10:18:01 ip-172-31-31-181 dhclient: DHCPREQUEST of 172.31.31.181 on eth0 to 172.31.16.1 port 67 (xid=0xec6b854)
+Aug 14 10:18:01 ip-172-31-31-181 dhclient: DHCPACK of 172.31.31.181 from 172.31.16.1
+Aug 14 10:18:01 ip-172-31-31-181 dhclient: bound to 172.31.31.181 -- renewal in 1598 seconds.
+Aug 14 10:18:44 ip-172-31-31-181 logger: instaclustr Uh oh! That's another error.
+Aug 14 10:18:44 ip-172-31-31-181 kernel: [519005.740093] Uh oh! That's an error.
+Aug 14 10:23:44 ip-172-31-31-181 kernel: [519305.741768] Uh oh! That's an error.
+Aug 14 10:28:44 ip-172-31-31-181 kernel: [519605.743395] Uh oh! That's an error.
+Aug 14 10:33:44 ip-172-31-31-181 kernel: [519905.745001] Uh oh! That's an error.
+Aug 14 10:38:44 ip-172-31-31-181 kernel: [520205.746427] Uh oh! That's an error.
+Aug 14 10:43:44 ip-172-31-31-181 kernel: [520505.747909] Uh oh! That's an error.
+Aug 14 10:43:44 ip-172-31-31-181 logger: message repeated 5 times: [ instaclustr Uh oh! That's another error.]
+Aug 14 10:44:39 ip-172-31-31-181 dhclient: DHCPREQUEST of 172.31.31.181 on eth0 to 172.31.16.1 port 67 (xid=0xec6b854)
+Aug 14 10:44:39 ip-172-31-31-181 dhclient: DHCPACK of 172.31.31.181 from 172.31.16.1
+Aug 14 10:44:39 ip-172-31-31-181 dhclient: bound to 172.31.31.181 -- renewal in 1531 seconds.
+Aug 14 10:48:44 ip-172-31-31-181 logger: instaclustr Uh oh! That's another error.
+Aug 14 10:48:44 ip-172-31-31-181 kernel: [520805.749590] Uh oh! That's an error.
+Aug 14 10:53:44 ip-172-31-31-181 kernel: [521105.751210] Uh oh! That's an error.
+Aug 14 10:58:44 ip-172-31-31-181 kernel: [521405.752646] Uh oh! That's an error.
+Aug 14 11:03:44 ip-172-31-31-181 kernel: [521705.754283] Uh oh! That's an error.
+Aug 14 11:08:44 ip-172-31-31-181 kernel: [522005.755991] Uh oh! That's an error.
+Aug 14 11:08:44 ip-172-31-31-181 logger: message repeated 4 times: [ instaclustr Uh oh! That's another error.]
+Aug 14 11:10:10 ip-172-31-31-181 dhclient: DHCPREQUEST of 172.31.31.181 on eth0 to 172.31.16.1 port 67 (xid=0xec6b854)
+Aug 14 11:10:10 ip-172-31-31-181 dhclient: DHCPACK of 172.31.31.181 from 172.31.16.1
+Aug 14 11:10:10 ip-172-31-31-181 dhclient: bound to 172.31.31.181 -- renewal in 1565 seconds.
+Aug 14 11:13:44 ip-172-31-31-181 logger: instaclustr Uh oh! That's another error.
+Aug 14 11:13:44 ip-172-31-31-181 kernel: [522305.757613] Uh oh! That's an error.
+Aug 14 11:17:01 ip-172-31-31-181 CRON[10173]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Aug 14 11:18:44 ip-172-31-31-181 logger: instaclustr Uh oh! That's another error.
+Aug 14 11:18:44 ip-172-31-31-181 kernel: [522605.759202] Uh oh! That's an error.
+Aug 14 11:23:44 ip-172-31-31-181 kernel: [522905.760893] Uh oh! That's an error.
+Aug 14 11:28:44 ip-172-31-31-181 kernel: [523205.762545] Uh oh! That's an error.
+Aug 14 11:33:44 ip-172-31-31-181 kernel: [523505.764186] Uh oh! That's an error.
+Aug 14 11:33:44 ip-172-31-31-181 logger: message repeated 3 times: [ instaclustr Uh oh! That's another error.]
+Aug 14 11:36:15 ip-172-31-31-181 dhclient: DHCPREQUEST of 172.31.31.181 on eth0 to 172.31.16.1 port 67 (xid=0xec6b854)
+Aug 14 11:36:15 ip-172-31-31-181 dhclient: DHCPACK of 172.31.31.181 from 172.31.16.1
+Aug 14 11:36:15 ip-172-31-31-181 dhclient: bound to 172.31.31.181 -- renewal in 1696 seconds.
+Aug 14 11:38:44 ip-172-31-31-181 logger: instaclustr Uh oh! That's another error.
+Aug 14 11:38:44 ip-172-31-31-181 kernel: [523805.765822] Uh oh! That's an error.
+Aug 14 11:43:44 ip-172-31-31-181 kernel: [524105.767414] Uh oh! That's an error.
+Aug 14 11:48:44 ip-172-31-31-181 kernel: [524405.768999] Uh oh! That's an error.
+Aug 14 11:53:44 ip-172-31-31-181 kernel: [524705.770698] Uh oh! That's an error.
+Aug 14 11:58:44 ip-172-31-31-181 kernel: [525005.772439] Uh oh! That's an error.
+Aug 14 12:03:44 ip-172-31-31-181 kernel: [525305.774069] Uh oh! That's an error.
+Aug 14 12:03:44 ip-172-31-31-181 logger: message repeated 5 times: [ instaclustr Uh oh! That's another error.]
+Aug 14 12:04:31 ip-172-31-31-181 dhclient: DHCPREQUEST of 172.31.31.181 on eth0 to 172.31.16.1 port 67 (xid=0xec6b854)
+Aug 14 12:04:31 ip-172-31-31-181 dhclient: DHCPACK of 172.31.31.181 from 172.31.16.1
+Aug 14 12:04:31 ip-172-31-31-181 dhclient: bound to 172.31.31.181 -- renewal in 1467 seconds.
+Aug 14 12:08:44 ip-172-31-31-181 kernel: [525605.775476] Uh oh! That's an error.
+Aug 14 12:08:44 ip-172-31-31-181 logger: instaclustr Uh oh! That's another error.
+Aug 14 12:13:44 ip-172-31-31-181 kernel: [525905.777179] Uh oh! That's an error.
+Aug 14 12:13:44 ip-172-31-31-181 logger: instaclustr Uh oh! That's another error.
+Aug 14 12:17:01 ip-172-31-31-181 CRON[10222]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Aug 14 12:18:44 ip-172-31-31-181 logger: instaclustr Uh oh! That's another error.
+Aug 14 12:18:44 ip-172-31-31-181 kernel: [526205.778771] Uh oh! That's an error.
+Aug 14 12:23:44 ip-172-31-31-181 logger: instaclustr Uh oh! That's another error.
+Aug 14 12:23:44 ip-172-31-31-181 kernel: [526505.780480] Uh oh! That's an error.
+Aug 14 12:28:44 ip-172-31-31-181 kernel: [526805.782114] Uh oh! That's an error.
+Aug 14 12:28:44 ip-172-31-31-181 logger: instaclustr Uh oh! That's another error.
+Aug 14 12:28:58 ip-172-31-31-181 dhclient: DHCPREQUEST of 172.31.31.181 on eth0 to 172.31.16.1 port 67 (xid=0xec6b854)
+Aug 14 12:28:58 ip-172-31-31-181 dhclient: DHCPACK of 172.31.31.181 from 172.31.16.1
+Aug 14 12:28:58 ip-172-31-31-181 dhclient: bound to 172.31.31.181 -- renewal in 1638 seconds.
+Aug 14 12:33:44 ip-172-31-31-181 kernel: [527105.783520] Uh oh! That's an error.
+Aug 14 12:33:44 ip-172-31-31-181 logger: instaclustr Uh oh! That's another error.
+Aug 14 12:38:44 ip-172-31-31-181 kernel: [527405.785169] Uh oh! That's an error.
+Aug 14 12:43:44 ip-172-31-31-181 kernel: [527705.786769] Uh oh! That's an error.
+Aug 14 12:48:44 ip-172-31-31-181 kernel: [528005.788235] Uh oh! That's an error.
+Aug 14 12:53:44 ip-172-31-31-181 kernel: [528305.789952] Uh oh! That's an error.
+Aug 14 12:53:44 ip-172-31-31-181 logger: message repeated 4 times: [ instaclustr Uh oh! That's another error.]
+Aug 14 12:56:16 ip-172-31-31-181 dhclient: DHCPREQUEST of 172.31.31.181 on eth0 to 172.31.16.1 port 67 (xid=0xec6b854)
+Aug 14 12:56:16 ip-172-31-31-181 dhclient: DHCPACK of 172.31.31.181 from 172.31.16.1
+Aug 14 12:56:16 ip-172-31-31-181 dhclient: bound to 172.31.31.181 -- renewal in 1715 seconds.
+Aug 14 12:58:44 ip-172-31-31-181 kernel: [528605.791675] Uh oh! That's an error.
+Aug 14 12:58:44 ip-172-31-31-181 logger: instaclustr Uh oh! That's another error.
+Aug 14 13:03:44 ip-172-31-31-181 kernel: [528905.793313] Uh oh! That's an error.
+Aug 14 13:03:44 ip-172-31-31-181 logger: instaclustr Uh oh! That's another error.
+Aug 14 13:08:44 ip-172-31-31-181 logger: instaclustr Uh oh! That's another error.
+Aug 14 13:08:44 ip-172-31-31-181 kernel: [529205.794943] Uh oh! That's an error.
+Aug 14 13:13:44 ip-172-31-31-181 logger: instaclustr Uh oh! That's another error.
+Aug 14 13:13:44 ip-172-31-31-181 kernel: [529505.796630] Uh oh! That's an error.
+Aug 14 13:17:01 ip-172-31-31-181 CRON[10279]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Aug 14 13:18:44 ip-172-31-31-181 logger: instaclustr Uh oh! That's another error.
+Aug 14 13:18:44 ip-172-31-31-181 kernel: [529805.798270] Uh oh! That's an error.
+Aug 14 13:23:44 ip-172-31-31-181 kernel: [530105.799909] Uh oh! That's an error.
+Aug 14 13:23:44 ip-172-31-31-181 logger: instaclustr Uh oh! That's another error.
+Aug 14 13:24:51 ip-172-31-31-181 dhclient: DHCPREQUEST of 172.31.31.181 on eth0 to 172.31.16.1 port 67 (xid=0xec6b854)
+Aug 14 13:24:51 ip-172-31-31-181 dhclient: DHCPACK of 172.31.31.181 from 172.31.16.1
+Aug 14 13:24:51 ip-172-31-31-181 dhclient: bound to 172.31.31.181 -- renewal in 1462 seconds.
+Aug 14 13:28:44 ip-172-31-31-181 logger: instaclustr Uh oh! That's another error.
+Aug 14 13:28:44 ip-172-31-31-181 kernel: [530405.801523] Uh oh! That's an error.
+Aug 14 13:33:44 ip-172-31-31-181 kernel: [530705.803151] Uh oh! That's an error.
+Aug 14 13:38:44 ip-172-31-31-181 kernel: [531005.804810] Uh oh! That's an error.
+Aug 14 13:43:44 ip-172-31-31-181 kernel: [531305.806392] Uh oh! That's an error.
+Aug 14 13:48:44 ip-172-31-31-181 kernel: [531605.807991] Uh oh! That's an error.
+Aug 14 13:48:44 ip-172-31-31-181 logger: message repeated 4 times: [ instaclustr Uh oh! That's another error.]
+Aug 14 13:49:13 ip-172-31-31-181 dhclient: DHCPREQUEST of 172.31.31.181 on eth0 to 172.31.16.1 port 67 (xid=0xec6b854)
+Aug 14 13:49:13 ip-172-31-31-181 dhclient: DHCPACK of 172.31.31.181 from 172.31.16.1
+Aug 14 13:49:13 ip-172-31-31-181 dhclient: bound to 172.31.31.181 -- renewal in 1417 seconds.
+Aug 14 13:53:44 ip-172-31-31-181 logger: instaclustr Uh oh! That's another error.
+Aug 14 13:53:44 ip-172-31-31-181 kernel: [531905.809453] Uh oh! That's an error.
+Aug 14 13:58:44 ip-172-31-31-181 kernel: [532205.811035] Uh oh! That's an error.
+Aug 14 14:03:44 ip-172-31-31-181 kernel: [532505.812743] Uh oh! That's an error.
+Aug 14 14:08:44 ip-172-31-31-181 kernel: [532805.814351] Uh oh! That's an error.
+Aug 14 14:08:44 ip-172-31-31-181 logger: message repeated 3 times: [ instaclustr Uh oh! That's another error.]
+Aug 14 14:12:50 ip-172-31-31-181 dhclient: DHCPREQUEST of 172.31.31.181 on eth0 to 172.31.16.1 port 67 (xid=0xec6b854)
+Aug 14 14:12:50 ip-172-31-31-181 dhclient: DHCPACK of 172.31.31.181 from 172.31.16.1
+Aug 14 14:12:50 ip-172-31-31-181 dhclient: bound to 172.31.31.181 -- renewal in 1366 seconds.
+Aug 14 14:13:44 ip-172-31-31-181 kernel: [533105.815932] Uh oh! That's an error.
+Aug 14 14:13:44 ip-172-31-31-181 logger: instaclustr Uh oh! That's another error.
+Aug 14 14:17:01 ip-172-31-31-181 CRON[10341]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Aug 14 14:18:44 ip-172-31-31-181 logger: instaclustr Uh oh! That's another error.
+Aug 14 14:18:44 ip-172-31-31-181 kernel: [533405.817593] Uh oh! That's an error.
+Aug 14 14:23:44 ip-172-31-31-181 kernel: [533705.819170] Uh oh! That's an error.
+Aug 14 14:28:44 ip-172-31-31-181 kernel: [534005.820804] Uh oh! That's an error.
+Aug 14 14:33:44 ip-172-31-31-181 kernel: [534305.822363] Uh oh! That's an error.
+Aug 14 14:33:44 ip-172-31-31-181 logger: message repeated 3 times: [ instaclustr Uh oh! That's another error.]
+Aug 14 14:35:36 ip-172-31-31-181 dhclient: DHCPREQUEST of 172.31.31.181 on eth0 to 172.31.16.1 port 67 (xid=0xec6b854)
+Aug 14 14:35:36 ip-172-31-31-181 dhclient: DHCPACK of 172.31.31.181 from 172.31.16.1
+Aug 14 14:35:36 ip-172-31-31-181 dhclient: bound to 172.31.31.181 -- renewal in 1475 seconds.
+Aug 14 14:38:44 ip-172-31-31-181 kernel: [534605.823926] Uh oh! That's an error.
+Aug 14 14:38:44 ip-172-31-31-181 logger: instaclustr Uh oh! That's another error.
+Aug 14 14:43:44 ip-172-31-31-181 kernel: [534905.825611] Uh oh! That's an error.
+Aug 14 14:48:44 ip-172-31-31-181 kernel: [535205.827199] Uh oh! That's an error.
+Aug 14 14:53:44 ip-172-31-31-181 kernel: [535505.828847] Uh oh! That's an error.
+Aug 14 14:58:44 ip-172-31-31-181 kernel: [535805.830487] Uh oh! That's an error.
+Aug 14 14:58:44 ip-172-31-31-181 logger: message repeated 4 times: [ instaclustr Uh oh! That's another error.]
+Aug 14 15:00:11 ip-172-31-31-181 dhclient: DHCPREQUEST of 172.31.31.181 on eth0 to 172.31.16.1 port 67 (xid=0xec6b854)
+Aug 14 15:00:11 ip-172-31-31-181 dhclient: DHCPACK of 172.31.31.181 from 172.31.16.1
+Aug 14 15:00:11 ip-172-31-31-181 dhclient: bound to 172.31.31.181 -- renewal in 1509 seconds.
+Aug 14 15:03:44 ip-172-31-31-181 logger: instaclustr Uh oh! That's another error.
+Aug 14 15:03:44 ip-172-31-31-181 kernel: [536105.832210] Uh oh! That's an error.
+Aug 14 15:08:44 ip-172-31-31-181 kernel: [536405.833943] Uh oh! That's an error.
+Aug 14 15:13:44 ip-172-31-31-181 kernel: [536705.835536] Uh oh! That's an error.
+Aug 14 15:13:44 ip-172-31-31-181 logger: message repeated 2 times: [ instaclustr Uh oh! That's another error.]
+Aug 14 15:17:01 ip-172-31-31-181 CRON[10390]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Aug 14 15:18:44 ip-172-31-31-181 logger: instaclustr Uh oh! That's another error.
+Aug 14 15:18:44 ip-172-31-31-181 kernel: [537005.837188] Uh oh! That's an error.
+Aug 14 15:23:44 ip-172-31-31-181 kernel: [537305.838844] Uh oh! That's an error.
+Aug 14 15:23:44 ip-172-31-31-181 logger: instaclustr Uh oh! That's another error.
+Aug 14 15:25:20 ip-172-31-31-181 dhclient: DHCPREQUEST of 172.31.31.181 on eth0 to 172.31.16.1 port 67 (xid=0xec6b854)
+Aug 14 15:25:20 ip-172-31-31-181 dhclient: DHCPACK of 172.31.31.181 from 172.31.16.1
+Aug 14 15:25:20 ip-172-31-31-181 dhclient: bound to 172.31.31.181 -- renewal in 1558 seconds.
+Aug 14 15:28:44 ip-172-31-31-181 logger: instaclustr Uh oh! That's another error.
+Aug 14 15:28:44 ip-172-31-31-181 kernel: [537605.840492] Uh oh! That's an error.
+Aug 14 15:33:44 ip-172-31-31-181 kernel: [537905.842084] Uh oh! That's an error.
+Aug 14 15:38:44 ip-172-31-31-181 kernel: [538205.843519] Uh oh! That's an error.
+Aug 14 15:43:44 ip-172-31-31-181 kernel: [538505.845093] Uh oh! That's an error.
+Aug 14 15:48:44 ip-172-31-31-181 kernel: [538805.846747] Uh oh! That's an error.
+Aug 14 15:48:44 ip-172-31-31-181 logger: message repeated 4 times: [ instaclustr Uh oh! That's another error.]
+Aug 14 15:51:18 ip-172-31-31-181 dhclient: DHCPREQUEST of 172.31.31.181 on eth0 to 172.31.16.1 port 67 (xid=0xec6b854)
+Aug 14 15:51:18 ip-172-31-31-181 dhclient: DHCPACK of 172.31.31.181 from 172.31.16.1
+Aug 14 15:51:18 ip-172-31-31-181 dhclient: bound to 172.31.31.181 -- renewal in 1723 seconds.
+Aug 14 15:53:44 ip-172-31-31-181 logger: instaclustr Uh oh! That's another error.
+Aug 14 15:53:44 ip-172-31-31-181 kernel: [539105.848301] Uh oh! That's an error.
+Aug 14 15:58:44 ip-172-31-31-181 kernel: [539405.849896] Uh oh! That's an error.
+Aug 14 16:03:44 ip-172-31-31-181 kernel: [539705.851490] Uh oh! That's an error.
+Aug 14 16:08:44 ip-172-31-31-181 kernel: [540005.853133] Uh oh! That's an error.
+Aug 14 16:13:44 ip-172-31-31-181 kernel: [540305.854570] Uh oh! That's an error.
+Aug 14 16:13:44 ip-172-31-31-181 logger: message repeated 4 times: [ instaclustr Uh oh! That's another error.]
+Aug 14 16:17:01 ip-172-31-31-181 CRON[10439]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Aug 14 16:18:44 ip-172-31-31-181 logger: instaclustr Uh oh! That's another error.
+Aug 14 16:18:44 ip-172-31-31-181 kernel: [540605.856177] Uh oh! That's an error.
+Aug 14 16:20:01 ip-172-31-31-181 dhclient: DHCPREQUEST of 172.31.31.181 on eth0 to 172.31.16.1 port 67 (xid=0xec6b854)
+Aug 14 16:20:01 ip-172-31-31-181 dhclient: DHCPACK of 172.31.31.181 from 172.31.16.1
+Aug 14 16:20:01 ip-172-31-31-181 dhclient: bound to 172.31.31.181 -- renewal in 1471 seconds.
+Aug 14 16:23:44 ip-172-31-31-181 kernel: [540905.857804] Uh oh! That's an error.
+Aug 14 16:23:44 ip-172-31-31-181 logger: instaclustr Uh oh! That's another error.
+Aug 14 16:28:44 ip-172-31-31-181 kernel: [541205.859240] Uh oh! That's an error.
+Aug 14 16:28:44 ip-172-31-31-181 logger: instaclustr Uh oh! That's another error.
+Aug 14 16:33:44 ip-172-31-31-181 logger: instaclustr Uh oh! That's another error.
+Aug 14 16:33:44 ip-172-31-31-181 kernel: [541505.860760] Uh oh! That's an error.
+Aug 14 16:38:44 ip-172-31-31-181 kernel: [541805.862398] Uh oh! That's an error.
+Aug 14 16:43:44 ip-172-31-31-181 kernel: [542105.863858] Uh oh! That's an error.
+Aug 14 16:43:44 ip-172-31-31-181 logger: message repeated 2 times: [ instaclustr Uh oh! That's another error.]
+Aug 14 16:44:32 ip-172-31-31-181 dhclient: DHCPREQUEST of 172.31.31.181 on eth0 to 172.31.16.1 port 67 (xid=0xec6b854)
+Aug 14 16:44:32 ip-172-31-31-181 dhclient: DHCPACK of 172.31.31.181 from 172.31.16.1
+Aug 14 16:44:32 ip-172-31-31-181 dhclient: bound to 172.31.31.181 -- renewal in 1419 seconds.
+Aug 14 16:48:44 ip-172-31-31-181 kernel: [542405.865533] Uh oh! That's an error.
+Aug 14 16:48:44 ip-172-31-31-181 logger: instaclustr Uh oh! That's another error.
+Aug 14 16:53:44 ip-172-31-31-181 kernel: [542705.867100] Uh oh! That's an error.
+Aug 14 16:58:44 ip-172-31-31-181 kernel: [543005.868827] Uh oh! That's an error.
+Aug 14 16:58:44 ip-172-31-31-181 logger: message repeated 2 times: [ instaclustr Uh oh! That's another error.]
+Aug 14 17:03:44 ip-172-31-31-181 logger: instaclustr Uh oh! That's another error.
+Aug 14 17:03:44 ip-172-31-31-181 kernel: [543305.870421] Uh oh! That's an error.
+Aug 14 17:08:11 ip-172-31-31-181 dhclient: DHCPREQUEST of 172.31.31.181 on eth0 to 172.31.16.1 port 67 (xid=0xec6b854)
+Aug 14 17:08:11 ip-172-31-31-181 dhclient: DHCPACK of 172.31.31.181 from 172.31.16.1
+Aug 14 17:08:11 ip-172-31-31-181 dhclient: bound to 172.31.31.181 -- renewal in 1581 seconds.
+Aug 14 17:08:44 ip-172-31-31-181 kernel: [543605.871992] Uh oh! That's an error.
+Aug 14 17:08:44 ip-172-31-31-181 logger: instaclustr Uh oh! That's another error.
+Aug 14 17:13:44 ip-172-31-31-181 kernel: [543905.873603] Uh oh! That's an error.
+Aug 14 17:13:44 ip-172-31-31-181 logger: instaclustr Uh oh! That's another error.
+Aug 14 17:17:01 ip-172-31-31-181 CRON[10505]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Aug 14 17:18:44 ip-172-31-31-181 logger: instaclustr Uh oh! That's another error.
+Aug 14 17:18:44 ip-172-31-31-181 kernel: [544205.875175] Uh oh! That's an error.
+Aug 14 17:23:44 ip-172-31-31-181 kernel: [544505.876760] Uh oh! That's an error.
+Aug 14 17:28:44 ip-172-31-31-181 kernel: [544805.878406] Uh oh! That's an error.
+Aug 14 17:33:44 ip-172-31-31-181 kernel: [545105.880053] Uh oh! That's an error.
+Aug 14 17:33:44 ip-172-31-31-181 logger: message repeated 3 times: [ instaclustr Uh oh! That's another error.]
+Aug 14 17:34:32 ip-172-31-31-181 dhclient: DHCPREQUEST of 172.31.31.181 on eth0 to 172.31.16.1 port 67 (xid=0xec6b854)
+Aug 14 17:34:32 ip-172-31-31-181 dhclient: DHCPACK of 172.31.31.181 from 172.31.16.1
+Aug 14 17:34:32 ip-172-31-31-181 dhclient: bound to 172.31.31.181 -- renewal in 1776 seconds.
+Aug 14 17:38:44 ip-172-31-31-181 kernel: [545405.881645] Uh oh! That's an error.
+Aug 14 17:38:44 ip-172-31-31-181 logger: instaclustr Uh oh! That's another error.
+Aug 14 17:43:44 ip-172-31-31-181 kernel: [545705.883323] Uh oh! That's an error.
+Aug 14 17:43:44 ip-172-31-31-181 logger: instaclustr Uh oh! That's another error.
+Aug 14 17:48:44 ip-172-31-31-181 kernel: [546005.884911] Uh oh! That's an error.
+Aug 14 17:53:44 ip-172-31-31-181 kernel: [546305.886567] Uh oh! That's an error.
+Aug 14 17:58:44 ip-172-31-31-181 kernel: [546605.888124] Uh oh! That's an error.
+Aug 14 18:03:44 ip-172-31-31-181 kernel: [546905.889741] Uh oh! That's an error.
+Aug 14 18:03:44 ip-172-31-31-181 logger: message repeated 4 times: [ instaclustr Uh oh! That's another error.]
+Aug 14 18:04:08 ip-172-31-31-181 dhclient: DHCPREQUEST of 172.31.31.181 on eth0 to 172.31.16.1 port 67 (xid=0xec6b854)
+Aug 14 18:04:08 ip-172-31-31-181 dhclient: DHCPACK of 172.31.31.181 from 172.31.16.1
+Aug 14 18:04:08 ip-172-31-31-181 dhclient: bound to 172.31.31.181 -- renewal in 1437 seconds.
+Aug 14 18:08:44 ip-172-31-31-181 kernel: [547205.891356] Uh oh! That's an error.
+Aug 14 18:08:44 ip-172-31-31-181 logger: instaclustr Uh oh! That's another error.
+Aug 14 18:13:44 ip-172-31-31-181 kernel: [547505.893019] Uh oh! That's an error.
+Aug 14 18:13:44 ip-172-31-31-181 logger: instaclustr Uh oh! That's another error.
+Aug 14 18:17:01 ip-172-31-31-181 CRON[10556]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Aug 14 18:18:44 ip-172-31-31-181 logger: instaclustr Uh oh! That's another error.
+Aug 14 18:18:44 ip-172-31-31-181 kernel: [547805.894690] Uh oh! That's an error.
+Aug 14 18:23:44 ip-172-31-31-181 kernel: [548105.896396] Uh oh! That's an error.
+Aug 14 18:23:44 ip-172-31-31-181 logger: instaclustr Uh oh! That's another error.
+Aug 14 18:28:05 ip-172-31-31-181 dhclient: DHCPREQUEST of 172.31.31.181 on eth0 to 172.31.16.1 port 67 (xid=0xec6b854)
+Aug 14 18:28:05 ip-172-31-31-181 dhclient: DHCPACK of 172.31.31.181 from 172.31.16.1
+Aug 14 18:28:05 ip-172-31-31-181 dhclient: bound to 172.31.31.181 -- renewal in 1420 seconds.
+Aug 14 18:28:44 ip-172-31-31-181 logger: instaclustr Uh oh! That's another error.
+Aug 14 18:28:44 ip-172-31-31-181 kernel: [548405.897822] Uh oh! That's an error.
+Aug 14 18:33:44 ip-172-31-31-181 kernel: [548705.899451] Uh oh! That's an error.
+Aug 14 18:38:44 ip-172-31-31-181 kernel: [549005.901097] Uh oh! That's an error.
+Aug 14 18:43:44 ip-172-31-31-181 kernel: [549305.902662] Uh oh! That's an error.
+Aug 14 18:48:44 ip-172-31-31-181 kernel: [549605.904238] Uh oh! That's an error.
+Aug 14 18:48:44 ip-172-31-31-181 logger: message repeated 4 times: [ instaclustr Uh oh! That's another error.]
+Aug 14 18:51:45 ip-172-31-31-181 dhclient: DHCPREQUEST of 172.31.31.181 on eth0 to 172.31.16.1 port 67 (xid=0xec6b854)
+Aug 14 18:51:45 ip-172-31-31-181 dhclient: DHCPACK of 172.31.31.181 from 172.31.16.1
+Aug 14 18:51:45 ip-172-31-31-181 dhclient: bound to 172.31.31.181 -- renewal in 1548 seconds.
+Aug 14 18:53:44 ip-172-31-31-181 logger: instaclustr Uh oh! That's another error.
+Aug 14 18:53:44 ip-172-31-31-181 kernel: [549905.905839] Uh oh! That's an error.
+Aug 14 18:58:44 ip-172-31-31-181 kernel: [550205.907433] Uh oh! That's an error.
+Aug 14 19:03:44 ip-172-31-31-181 kernel: [550505.909070] Uh oh! That's an error.
+Aug 14 19:08:44 ip-172-31-31-181 kernel: [550805.910546] Uh oh! That's an error.
+Aug 14 19:13:44 ip-172-31-31-181 kernel: [551105.912233] Uh oh! That's an error.
+Aug 14 19:13:44 ip-172-31-31-181 logger: message repeated 4 times: [ instaclustr Uh oh! That's another error.]
+Aug 14 19:17:01 ip-172-31-31-181 CRON[10605]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Aug 14 19:17:33 ip-172-31-31-181 dhclient: DHCPREQUEST of 172.31.31.181 on eth0 to 172.31.16.1 port 67 (xid=0xec6b854)
+Aug 14 19:17:33 ip-172-31-31-181 dhclient: DHCPACK of 172.31.31.181 from 172.31.16.1
+Aug 14 19:17:33 ip-172-31-31-181 dhclient: bound to 172.31.31.181 -- renewal in 1584 seconds.
+Aug 14 19:18:44 ip-172-31-31-181 logger: instaclustr Uh oh! That's another error.
+Aug 14 19:18:44 ip-172-31-31-181 kernel: [551405.913843] Uh oh! That's an error.
+Aug 14 19:23:44 ip-172-31-31-181 kernel: [551705.915413] Uh oh! That's an error.
+Aug 14 19:28:44 ip-172-31-31-181 kernel: [552005.917027] Uh oh! That's an error.
+Aug 14 19:33:44 ip-172-31-31-181 kernel: [552305.918606] Uh oh! That's an error.
+Aug 14 19:38:44 ip-172-31-31-181 kernel: [552605.920235] Uh oh! That's an error.
+Aug 14 19:43:44 ip-172-31-31-181 kernel: [552905.921725] Uh oh! That's an error.
+Aug 14 19:43:44 ip-172-31-31-181 logger: message repeated 5 times: [ instaclustr Uh oh! That's another error.]
+Aug 14 19:43:57 ip-172-31-31-181 dhclient: DHCPREQUEST of 172.31.31.181 on eth0 to 172.31.16.1 port 67 (xid=0xec6b854)
+Aug 14 19:43:57 ip-172-31-31-181 dhclient: DHCPACK of 172.31.31.181 from 172.31.16.1
+Aug 14 19:43:57 ip-172-31-31-181 dhclient: bound to 172.31.31.181 -- renewal in 1786 seconds.
+Aug 14 19:48:44 ip-172-31-31-181 kernel: [553205.923416] Uh oh! That's an error.
+Aug 14 19:48:44 ip-172-31-31-181 logger: instaclustr Uh oh! That's another error.
+Aug 14 19:53:44 ip-172-31-31-181 kernel: [553505.925090] Uh oh! That's an error.
+Aug 14 19:58:44 ip-172-31-31-181 kernel: [553805.926735] Uh oh! That's an error.
+Aug 14 20:03:44 ip-172-31-31-181 kernel: [554105.928384] Uh oh! That's an error.
+Aug 14 20:08:44 ip-172-31-31-181 kernel: [554405.929983] Uh oh! That's an error.
+Aug 14 20:08:44 ip-172-31-31-181 logger: message repeated 4 times: [ instaclustr Uh oh! That's another error.]
+Aug 14 20:13:43 ip-172-31-31-181 dhclient: DHCPREQUEST of 172.31.31.181 on eth0 to 172.31.16.1 port 67 (xid=0xec6b854)
+Aug 14 20:13:43 ip-172-31-31-181 dhclient: DHCPACK of 172.31.31.181 from 172.31.16.1
+Aug 14 20:13:43 ip-172-31-31-181 dhclient: bound to 172.31.31.181 -- renewal in 1707 seconds.
+Aug 14 20:13:44 ip-172-31-31-181 kernel: [554705.931605] Uh oh! That's an error.
+Aug 14 20:13:44 ip-172-31-31-181 logger: instaclustr Uh oh! That's another error.
+Aug 14 20:17:01 ip-172-31-31-181 CRON[10665]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Aug 14 20:18:44 ip-172-31-31-181 logger: instaclustr Uh oh! That's another error.
+Aug 14 20:18:44 ip-172-31-31-181 kernel: [555005.933208] Uh oh! That's an error.
+Aug 14 20:23:44 ip-172-31-31-181 kernel: [555305.934950] Uh oh! That's an error.
+Aug 14 20:28:44 ip-172-31-31-181 kernel: [555605.936686] Uh oh! That's an error.
+Aug 14 20:33:44 ip-172-31-31-181 kernel: [555905.938291] Uh oh! That's an error.
+Aug 14 20:38:44 ip-172-31-31-181 kernel: [556205.939880] Uh oh! That's an error.
+Aug 14 20:38:44 ip-172-31-31-181 logger: message repeated 4 times: [ instaclustr Uh oh! That's another error.]
+Aug 14 20:42:10 ip-172-31-31-181 dhclient: DHCPREQUEST of 172.31.31.181 on eth0 to 172.31.16.1 port 67 (xid=0xec6b854)
+Aug 14 20:42:10 ip-172-31-31-181 dhclient: DHCPACK of 172.31.31.181 from 172.31.16.1
+Aug 14 20:42:10 ip-172-31-31-181 dhclient: bound to 172.31.31.181 -- renewal in 1768 seconds.
+Aug 14 20:43:44 ip-172-31-31-181 logger: instaclustr Uh oh! That's another error.
+Aug 14 20:43:44 ip-172-31-31-181 kernel: [556505.941540] Uh oh! That's an error.
+Aug 14 20:48:44 ip-172-31-31-181 kernel: [556805.943102] Uh oh! That's an error.
+Aug 14 20:53:44 ip-172-31-31-181 kernel: [557105.944791] Uh oh! That's an error.
+Aug 14 20:58:44 ip-172-31-31-181 kernel: [557405.946528] Uh oh! That's an error.
+Aug 14 21:03:44 ip-172-31-31-181 kernel: [557705.948152] Uh oh! That's an error.
+Aug 14 21:08:44 ip-172-31-31-181 kernel: [558005.949801] Uh oh! That's an error.
+Aug 14 21:08:44 ip-172-31-31-181 logger: message repeated 5 times: [ instaclustr Uh oh! That's another error.]
+Aug 14 21:11:38 ip-172-31-31-181 dhclient: DHCPREQUEST of 172.31.31.181 on eth0 to 172.31.16.1 port 67 (xid=0xec6b854)
+Aug 14 21:11:38 ip-172-31-31-181 dhclient: DHCPACK of 172.31.31.181 from 172.31.16.1
+Aug 14 21:11:38 ip-172-31-31-181 dhclient: bound to 172.31.31.181 -- renewal in 1421 seconds.
+Aug 14 21:13:44 ip-172-31-31-181 kernel: [558305.951427] Uh oh! That's an error.
+Aug 14 21:13:44 ip-172-31-31-181 logger: instaclustr Uh oh! That's another error.
+Aug 14 21:17:01 ip-172-31-31-181 CRON[10714]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Aug 14 21:18:44 ip-172-31-31-181 logger: instaclustr Uh oh! That's another error.
+Aug 14 21:18:44 ip-172-31-31-181 kernel: [558605.953067] Uh oh! That's an error.
+Aug 14 21:23:44 ip-172-31-31-181 kernel: [558905.954677] Uh oh! That's an error.
+Aug 14 21:28:44 ip-172-31-31-181 kernel: [559205.956275] Uh oh! That's an error.
+Aug 14 21:33:44 ip-172-31-31-181 kernel: [559505.957858] Uh oh! That's an error.
+Aug 14 21:33:44 ip-172-31-31-181 logger: message repeated 3 times: [ instaclustr Uh oh! That's another error.]
+Aug 14 21:35:19 ip-172-31-31-181 dhclient: DHCPREQUEST of 172.31.31.181 on eth0 to 172.31.16.1 port 67 (xid=0xec6b854)
+Aug 14 21:35:19 ip-172-31-31-181 dhclient: DHCPACK of 172.31.31.181 from 172.31.16.1
+Aug 14 21:35:19 ip-172-31-31-181 dhclient: bound to 172.31.31.181 -- renewal in 1414 seconds.
+Aug 14 21:38:44 ip-172-31-31-181 kernel: [559805.959453] Uh oh! That's an error.
+Aug 14 21:38:44 ip-172-31-31-181 logger: instaclustr Uh oh! That's another error.
+Aug 14 21:43:44 ip-172-31-31-181 kernel: [560105.961046] Uh oh! That's an error.
+Aug 14 21:48:44 ip-172-31-31-181 kernel: [560405.962504] Uh oh! That's an error.
+Aug 14 21:53:44 ip-172-31-31-181 kernel: [560705.964076] Uh oh! That's an error.
+Aug 14 21:58:44 ip-172-31-31-181 kernel: [561005.965676] Uh oh! That's an error.
+Aug 14 21:58:44 ip-172-31-31-181 logger: message repeated 4 times: [ instaclustr Uh oh! That's another error.]
+Aug 14 21:58:54 ip-172-31-31-181 dhclient: DHCPREQUEST of 172.31.31.181 on eth0 to 172.31.16.1 port 67 (xid=0xec6b854)
+Aug 14 21:58:54 ip-172-31-31-181 dhclient: DHCPACK of 172.31.31.181 from 172.31.16.1
+Aug 14 21:58:54 ip-172-31-31-181 dhclient: bound to 172.31.31.181 -- renewal in 1512 seconds.
+Aug 14 22:03:44 ip-172-31-31-181 logger: instaclustr Uh oh! That's another error.
+Aug 14 22:03:44 ip-172-31-31-181 kernel: [561305.967209] Uh oh! That's an error.
+Aug 14 22:08:44 ip-172-31-31-181 kernel: [561605.968888] Uh oh! That's an error.
+Aug 14 22:13:44 ip-172-31-31-181 kernel: [561905.970515] Uh oh! That's an error.
+Aug 14 22:13:44 ip-172-31-31-181 logger: message repeated 2 times: [ instaclustr Uh oh! That's another error.]
+Aug 14 22:17:01 ip-172-31-31-181 CRON[10763]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Aug 14 22:18:44 ip-172-31-31-181 kernel: [562205.971918] Uh oh! That's an error.
+Aug 14 22:18:44 ip-172-31-31-181 logger: instaclustr Uh oh! That's another error.
+Aug 14 22:23:44 ip-172-31-31-181 kernel: [562505.973604] Uh oh! That's an error.
+Aug 14 22:23:44 ip-172-31-31-181 logger: instaclustr Uh oh! That's another error.
+Aug 14 22:24:06 ip-172-31-31-181 dhclient: DHCPREQUEST of 172.31.31.181 on eth0 to 172.31.16.1 port 67 (xid=0xec6b854)
+Aug 14 22:24:06 ip-172-31-31-181 dhclient: DHCPACK of 172.31.31.181 from 172.31.16.1
+Aug 14 22:24:06 ip-172-31-31-181 dhclient: bound to 172.31.31.181 -- renewal in 1695 seconds.
+Aug 14 22:28:44 ip-172-31-31-181 logger: instaclustr Uh oh! That's another error.
+Aug 14 22:28:44 ip-172-31-31-181 kernel: [562805.975186] Uh oh! That's an error.
+Aug 14 22:33:44 ip-172-31-31-181 kernel: [563105.976822] Uh oh! That's an error.
+Aug 14 22:38:44 ip-172-31-31-181 kernel: [563405.978449] Uh oh! That's an error.
+Aug 14 22:43:44 ip-172-31-31-181 kernel: [563705.980081] Uh oh! That's an error.
+Aug 14 22:48:44 ip-172-31-31-181 kernel: [564005.981706] Uh oh! That's an error.
+Aug 14 22:48:44 ip-172-31-31-181 logger: message repeated 4 times: [ instaclustr Uh oh! That's another error.]
+Aug 14 22:52:21 ip-172-31-31-181 dhclient: DHCPREQUEST of 172.31.31.181 on eth0 to 172.31.16.1 port 67 (xid=0xec6b854)
+Aug 14 22:52:21 ip-172-31-31-181 dhclient: DHCPACK of 172.31.31.181 from 172.31.16.1
+Aug 14 22:52:21 ip-172-31-31-181 dhclient: bound to 172.31.31.181 -- renewal in 1771 seconds.
+Aug 14 22:53:44 ip-172-31-31-181 kernel: [564305.983322] Uh oh! That's an error.
+Aug 14 22:53:44 ip-172-31-31-181 logger: instaclustr Uh oh! That's another error.
+Aug 14 22:58:44 ip-172-31-31-181 kernel: [564605.984911] Uh oh! That's an error.
+Aug 14 23:03:44 ip-172-31-31-181 kernel: [564905.986495] Uh oh! That's an error.
+Aug 14 23:08:44 ip-172-31-31-181 kernel: [565205.987935] Uh oh! That's an error.
+Aug 14 23:13:44 ip-172-31-31-181 kernel: [565505.989615] Uh oh! That's an error.
+Aug 14 23:13:44 ip-172-31-31-181 logger: message repeated 4 times: [ instaclustr Uh oh! That's another error.]
+Aug 14 23:17:01 ip-172-31-31-181 CRON[10812]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Aug 14 23:18:44 ip-172-31-31-181 kernel: [565805.991297] Uh oh! That's an error.
+Aug 14 23:18:44 ip-172-31-31-181 logger: instaclustr Uh oh! That's another error.
+Aug 14 23:21:52 ip-172-31-31-181 dhclient: DHCPREQUEST of 172.31.31.181 on eth0 to 172.31.16.1 port 67 (xid=0xec6b854)
+Aug 14 23:21:52 ip-172-31-31-181 dhclient: DHCPACK of 172.31.31.181 from 172.31.16.1
+Aug 14 23:21:52 ip-172-31-31-181 dhclient: bound to 172.31.31.181 -- renewal in 1417 seconds.
+Aug 14 23:23:44 ip-172-31-31-181 logger: instaclustr Uh oh! That's another error.
+Aug 14 23:23:44 ip-172-31-31-181 kernel: [566105.992924] Uh oh! That's an error.
+Aug 14 23:28:44 ip-172-31-31-181 kernel: [566405.994556] Uh oh! That's an error.
+Aug 14 23:33:44 ip-172-31-31-181 kernel: [566705.996200] Uh oh! That's an error.
+Aug 14 23:38:44 ip-172-31-31-181 kernel: [567005.997784] Uh oh! That's an error.
+Aug 14 23:43:44 ip-172-31-31-181 kernel: [567305.999366] Uh oh! That's an error.
+Aug 14 23:43:44 ip-172-31-31-181 logger: message repeated 4 times: [ instaclustr Uh oh! That's another error.]
+Aug 14 23:45:29 ip-172-31-31-181 dhclient: DHCPREQUEST of 172.31.31.181 on eth0 to 172.31.16.1 port 67 (xid=0xec6b854)
+Aug 14 23:45:29 ip-172-31-31-181 dhclient: DHCPACK of 172.31.31.181 from 172.31.16.1
+Aug 14 23:45:29 ip-172-31-31-181 dhclient: bound to 172.31.31.181 -- renewal in 1766 seconds.
+Aug 14 23:48:44 ip-172-31-31-181 logger: instaclustr Uh oh! That's another error.
+Aug 14 23:48:44 ip-172-31-31-181 kernel: [567606.001040] Uh oh! That's an error.
+Aug 14 23:53:44 ip-172-31-31-181 kernel: [567906.002638] Uh oh! That's an error.
+Aug 14 23:58:44 ip-172-31-31-181 kernel: [568206.004288] Uh oh! That's an error.
+Aug 15 00:03:44 ip-172-31-31-181 kernel: [568506.005753] Uh oh! That's an error.
+Aug 15 00:08:44 ip-172-31-31-181 kernel: [568806.007372] Uh oh! That's an error.
+Aug 15 00:13:44 ip-172-31-31-181 kernel: [569106.009017] Uh oh! That's an error.
+Aug 15 00:13:44 ip-172-31-31-181 logger: message repeated 5 times: [ instaclustr Uh oh! That's another error.]
+Aug 15 00:14:55 ip-172-31-31-181 dhclient: DHCPREQUEST of 172.31.31.181 on eth0 to 172.31.16.1 port 67 (xid=0xec6b854)
+Aug 15 00:14:55 ip-172-31-31-181 dhclient: DHCPACK of 172.31.31.181 from 172.31.16.1
+Aug 15 00:14:55 ip-172-31-31-181 dhclient: bound to 172.31.31.181 -- renewal in 1661 seconds.
+Aug 15 00:17:01 ip-172-31-31-181 CRON[10872]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Aug 15 00:18:44 ip-172-31-31-181 logger: instaclustr Uh oh! That's another error.
+Aug 15 00:18:44 ip-172-31-31-181 kernel: [569406.010701] Uh oh! That's an error.
+Aug 15 00:23:44 ip-172-31-31-181 kernel: [569706.012289] Uh oh! That's an error.
+Aug 15 00:28:44 ip-172-31-31-181 kernel: [570006.013898] Uh oh! That's an error.
+Aug 15 00:33:44 ip-172-31-31-181 kernel: [570306.015535] Uh oh! That's an error.
+Aug 15 00:38:44 ip-172-31-31-181 kernel: [570606.017167] Uh oh! That's an error.
+Aug 15 00:38:44 ip-172-31-31-181 logger: message repeated 4 times: [ instaclustr Uh oh! That's another error.]
+Aug 15 00:42:36 ip-172-31-31-181 dhclient: DHCPREQUEST of 172.31.31.181 on eth0 to 172.31.16.1 port 67 (xid=0xec6b854)
+Aug 15 00:42:36 ip-172-31-31-181 dhclient: DHCPACK of 172.31.31.181 from 172.31.16.1
+Aug 15 00:42:36 ip-172-31-31-181 dhclient: bound to 172.31.31.181 -- renewal in 1720 seconds.
+Aug 15 00:43:44 ip-172-31-31-181 logger: instaclustr Uh oh! That's another error.
+Aug 15 00:43:44 ip-172-31-31-181 kernel: [570906.018773] Uh oh! That's an error.
+Aug 15 00:48:44 ip-172-31-31-181 kernel: [571206.020423] Uh oh! That's an error.
+Aug 15 00:53:44 ip-172-31-31-181 kernel: [571506.021847] Uh oh! That's an error.
+Aug 15 00:58:44 ip-172-31-31-181 kernel: [571806.023464] Uh oh! That's an error.
+Aug 15 01:03:44 ip-172-31-31-181 kernel: [572106.025056] Uh oh! That's an error.
+Aug 15 01:08:44 ip-172-31-31-181 kernel: [572406.026509] Uh oh! That's an error.
+Aug 15 01:08:44 ip-172-31-31-181 logger: message repeated 5 times: [ instaclustr Uh oh! That's another error.]
+Aug 15 01:11:16 ip-172-31-31-181 dhclient: DHCPREQUEST of 172.31.31.181 on eth0 to 172.31.16.1 port 67 (xid=0xec6b854)
+Aug 15 01:11:16 ip-172-31-31-181 dhclient: DHCPACK of 172.31.31.181 from 172.31.16.1
+Aug 15 01:11:16 ip-172-31-31-181 dhclient: bound to 172.31.31.181 -- renewal in 1385 seconds.
+Aug 15 01:13:44 ip-172-31-31-181 kernel: [572706.027949] Uh oh! That's an error.
+Aug 15 01:13:44 ip-172-31-31-181 logger: instaclustr Uh oh! That's another error.
+Aug 15 01:17:01 ip-172-31-31-181 CRON[10921]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Aug 15 01:18:44 ip-172-31-31-181 logger: instaclustr Uh oh! That's another error.
+Aug 15 01:18:44 ip-172-31-31-181 kernel: [573006.029617] Uh oh! That's an error.
+Aug 15 01:23:44 ip-172-31-31-181 kernel: [573306.031313] Uh oh! That's an error.
+Aug 15 01:28:44 ip-172-31-31-181 kernel: [573606.032943] Uh oh! That's an error.
+Aug 15 01:33:44 ip-172-31-31-181 kernel: [573906.034586] Uh oh! That's an error.
+Aug 15 01:33:44 ip-172-31-31-181 logger: message repeated 3 times: [ instaclustr Uh oh! That's another error.]
+Aug 15 01:34:21 ip-172-31-31-181 dhclient: DHCPREQUEST of 172.31.31.181 on eth0 to 172.31.16.1 port 67 (xid=0xec6b854)
+Aug 15 01:34:21 ip-172-31-31-181 dhclient: DHCPACK of 172.31.31.181 from 172.31.16.1
+Aug 15 01:34:22 ip-172-31-31-181 dhclient: bound to 172.31.31.181 -- renewal in 1688 seconds.
+Aug 15 01:38:44 ip-172-31-31-181 logger: instaclustr Uh oh! That's another error.
+Aug 15 01:38:44 ip-172-31-31-181 kernel: [574206.036236] Uh oh! That's an error.
+Aug 15 01:43:44 ip-172-31-31-181 logger: instaclustr Uh oh! That's another error.
+Aug 15 01:43:44 ip-172-31-31-181 kernel: [574506.037810] Uh oh! That's an error.
+Aug 15 01:48:44 ip-172-31-31-181 kernel: [574806.039577] Uh oh! That's an error.
+Aug 15 01:53:44 ip-172-31-31-181 kernel: [575106.041194] Uh oh! That's an error.
+Aug 15 01:58:44 ip-172-31-31-181 kernel: [575406.042665] Uh oh! That's an error.
+Aug 15 01:58:44 ip-172-31-31-181 logger: message repeated 3 times: [ instaclustr Uh oh! That's another error.]
+Aug 15 02:02:30 ip-172-31-31-181 dhclient: DHCPREQUEST of 172.31.31.181 on eth0 to 172.31.16.1 port 67 (xid=0xec6b854)
+Aug 15 02:02:30 ip-172-31-31-181 dhclient: DHCPACK of 172.31.31.181 from 172.31.16.1
+Aug 15 02:02:30 ip-172-31-31-181 dhclient: bound to 172.31.31.181 -- renewal in 1553 seconds.
+Aug 15 02:03:44 ip-172-31-31-181 logger: instaclustr Uh oh! That's another error.
+Aug 15 02:03:44 ip-172-31-31-181 kernel: [575706.044352] Uh oh! That's an error.
+Aug 15 02:08:44 ip-172-31-31-181 kernel: [576006.045987] Uh oh! That's an error.
+Aug 15 02:13:44 ip-172-31-31-181 kernel: [576306.047621] Uh oh! That's an error.
+Aug 15 02:13:44 ip-172-31-31-181 logger: message repeated 2 times: [ instaclustr Uh oh! That's another error.]
+Aug 15 02:17:01 ip-172-31-31-181 CRON[10972]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Aug 15 02:18:44 ip-172-31-31-181 logger: instaclustr Uh oh! That's another error.
+Aug 15 02:18:44 ip-172-31-31-181 kernel: [576606.049247] Uh oh! That's an error.
+Aug 15 02:23:44 ip-172-31-31-181 kernel: [576906.050870] Uh oh! That's an error.
+Aug 15 02:23:44 ip-172-31-31-181 logger: instaclustr Uh oh! That's another error.
+Aug 15 02:28:23 ip-172-31-31-181 dhclient: DHCPREQUEST of 172.31.31.181 on eth0 to 172.31.16.1 port 67 (xid=0xec6b854)
+Aug 15 02:28:23 ip-172-31-31-181 dhclient: DHCPACK of 172.31.31.181 from 172.31.16.1
+Aug 15 02:28:23 ip-172-31-31-181 dhclient: bound to 172.31.31.181 -- renewal in 1773 seconds.
+Aug 15 02:28:44 ip-172-31-31-181 logger: instaclustr Uh oh! That's another error.
+Aug 15 02:28:44 ip-172-31-31-181 kernel: [577206.052506] Uh oh! That's an error.
+Aug 15 02:33:44 ip-172-31-31-181 kernel: [577506.054105] Uh oh! That's an error.
+Aug 15 02:38:44 ip-172-31-31-181 kernel: [577806.055745] Uh oh! That's an error.
+Aug 15 02:43:44 ip-172-31-31-181 kernel: [578106.057494] Uh oh! That's an error.
+Aug 15 02:48:44 ip-172-31-31-181 kernel: [578406.059203] Uh oh! That's an error.
+Aug 15 02:53:44 ip-172-31-31-181 kernel: [578706.060849] Uh oh! That's an error.
+Aug 15 02:53:44 ip-172-31-31-181 logger: message repeated 5 times: [ instaclustr Uh oh! That's another error.]
+Aug 15 02:57:56 ip-172-31-31-181 dhclient: DHCPREQUEST of 172.31.31.181 on eth0 to 172.31.16.1 port 67 (xid=0xec6b854)
+Aug 15 02:57:56 ip-172-31-31-181 dhclient: DHCPACK of 172.31.31.181 from 172.31.16.1
+Aug 15 02:57:56 ip-172-31-31-181 dhclient: bound to 172.31.31.181 -- renewal in 1576 seconds.
+Aug 15 02:58:44 ip-172-31-31-181 logger: instaclustr Uh oh! That's another error.
+Aug 15 02:58:44 ip-172-31-31-181 kernel: [579006.062287] Uh oh! That's an error.
+Aug 15 03:03:44 ip-172-31-31-181 kernel: [579306.063938] Uh oh! That's an error.
+Aug 15 03:08:44 ip-172-31-31-181 kernel: [579606.065546] Uh oh! That's an error.
+Aug 15 03:13:44 ip-172-31-31-181 kernel: [579906.067058] Uh oh! That's an error.
+Aug 15 03:13:44 ip-172-31-31-181 logger: message repeated 3 times: [ instaclustr Uh oh! That's another error.]
+Aug 15 03:17:01 ip-172-31-31-181 CRON[11021]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Aug 15 03:18:44 ip-172-31-31-181 logger: instaclustr Uh oh! That's another error.
+Aug 15 03:18:44 ip-172-31-31-181 kernel: [580206.068742] Uh oh! That's an error.
+Aug 15 03:23:44 ip-172-31-31-181 kernel: [580506.070201] Uh oh! That's an error.
+Aug 15 03:23:44 ip-172-31-31-181 logger: instaclustr Uh oh! That's another error.
+Aug 15 03:24:12 ip-172-31-31-181 dhclient: DHCPREQUEST of 172.31.31.181 on eth0 to 172.31.16.1 port 67 (xid=0xec6b854)
+Aug 15 03:24:12 ip-172-31-31-181 dhclient: DHCPACK of 172.31.31.181 from 172.31.16.1
+Aug 15 03:24:12 ip-172-31-31-181 dhclient: bound to 172.31.31.181 -- renewal in 1446 seconds.
+Aug 15 03:28:44 ip-172-31-31-181 logger: instaclustr Uh oh! That's another error.
+Aug 15 03:28:44 ip-172-31-31-181 kernel: [580806.072893] Uh oh! That's an error.
+Aug 15 03:33:44 ip-172-31-31-181 logger: instaclustr Uh oh! That's another error.
+Aug 15 03:33:44 ip-172-31-31-181 kernel: [581106.074596] Uh oh! That's an error.
+Aug 15 03:38:44 ip-172-31-31-181 logger: instaclustr Uh oh! That's another error.
+Aug 15 03:38:44 ip-172-31-31-181 kernel: [581406.076259] Uh oh! That's an error.
+Aug 15 03:43:44 ip-172-31-31-181 kernel: [581706.077885] Uh oh! That's an error.
+Aug 15 03:43:44 ip-172-31-31-181 logger: instaclustr Uh oh! That's another error.
+Aug 15 03:48:19 ip-172-31-31-181 dhclient: DHCPREQUEST of 172.31.31.181 on eth0 to 172.31.16.1 port 67 (xid=0xec6b854)
+Aug 15 03:48:19 ip-172-31-31-181 dhclient: DHCPACK of 172.31.31.181 from 172.31.16.1
+Aug 15 03:48:19 ip-172-31-31-181 dhclient: bound to 172.31.31.181 -- renewal in 1398 seconds.
+Aug 15 03:48:44 ip-172-31-31-181 kernel: [582006.079566] Uh oh! That's an error.
+Aug 15 03:48:44 ip-172-31-31-181 logger: instaclustr Uh oh! That's another error.
+Aug 15 03:53:44 ip-172-31-31-181 kernel: [582306.081176] Uh oh! That's an error.
+Aug 15 03:58:44 ip-172-31-31-181 kernel: [582606.082796] Uh oh! That's an error.
+Aug 15 04:03:44 ip-172-31-31-181 kernel: [582906.084414] Uh oh! That's an error.
+Aug 15 04:03:44 ip-172-31-31-181 logger: message repeated 3 times: [ instaclustr Uh oh! That's another error.]
+Aug 15 04:08:00 ip-172-31-31-181 ubuntu: cat /var/log/syslog
+Aug 15 04:08:44 ip-172-31-31-181 logger: instaclustr Uh oh! That's another error.
+Aug 15 04:08:44 ip-172-31-31-181 kernel: [583206.086131] Uh oh! That's an error.
+Aug 15 04:11:37 ip-172-31-31-181 dhclient: DHCPREQUEST of 172.31.31.181 on eth0 to 172.31.16.1 port 67 (xid=0xec6b854)
+Aug 15 04:11:37 ip-172-31-31-181 dhclient: DHCPACK of 172.31.31.181 from 172.31.16.1
+Aug 15 04:11:37 ip-172-31-31-181 dhclient: bound to 172.31.31.181 -- renewal in 1556 seconds.
+Aug 15 04:13:44 ip-172-31-31-181 kernel: [583506.087816] Uh oh! That's an error.
+Aug 15 04:13:44 ip-172-31-31-181 logger: instaclustr Uh oh! That's another error.
+Aug 15 04:17:01 ip-172-31-31-181 CRON[11851]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Aug 15 04:18:44 ip-172-31-31-181 logger: instaclustr Uh oh! That's another error.
+Aug 15 04:18:44 ip-172-31-31-181 kernel: [583806.089588] Uh oh! That's an error.
+Aug 15 04:23:44 ip-172-31-31-181 kernel: [584106.091327] Uh oh! That's an error.
+Aug 15 04:28:44 ip-172-31-31-181 kernel: [584406.093052] Uh oh! That's an error.
+Aug 15 04:28:44 ip-172-31-31-181 logger: message repeated 2 times: [ instaclustr Uh oh! That's another error.]
+Aug 15 04:29:54 ip-172-31-31-181 ubuntu: instaclustr
+Aug 15 04:33:44 ip-172-31-31-181 kernel: [584706.095766] Uh oh! That's an error.
+Aug 15 04:33:44 ip-172-31-31-181 logger: instaclustr Uh oh! That's another error.
+Aug 15 04:37:33 ip-172-31-31-181 dhclient: DHCPREQUEST of 172.31.31.181 on eth0 to 172.31.16.1 port 67 (xid=0xec6b854)
+Aug 15 04:37:33 ip-172-31-31-181 dhclient: DHCPACK of 172.31.31.181 from 172.31.16.1
+Aug 15 04:37:33 ip-172-31-31-181 dhclient: bound to 172.31.31.181 -- renewal in 1627 seconds.
+Aug 15 04:38:44 ip-172-31-31-181 logger: instaclustr Uh oh! That's another error.
+Aug 15 04:38:44 ip-172-31-31-181 kernel: [585006.097254] Uh oh! That's an error.
