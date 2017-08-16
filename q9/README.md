@@ -4,13 +4,16 @@
 The main difference between the two garbage collectors is how they approach collecting garbage. CMS uses a mark and then sweep approach where G1GC basically scans regions of MemBlock sizes for the most Garbage to clean out. More formal definitions given below.
 
 **Concurrent Mark Sweep Collector**
+
 CMS uses a concurrent algorithm using multiple threads to scan through the heap (“mark”) for unused objects that can be recycled (“sweep”). This algorithm will enter “stop the world” (STW) mode in two cases: when initializing the initial marking of roots (objects in the old generation that are reachable from thread entry points or static variables) and when the application has changed the state of the heap while the algorithm was running concurrently, forcing it to go back and do some final touches to make sure it has the right objects marked.
 
 **G1 Collector**
+
 The Garbage first collector (G1) introduced in JDK 7 update 4 was designed to better support heaps larger than 4GB. The G1 collector utilizes multiple background threads to scan through the heap that it divides into regions, spanning from 1MB to 32MB (depending on the size of your heap). G1 collector is geared towards scanning those regions that contain the most garbage objects first, giving it its name (Garbage first).
 The Garbage-First (G1) garbage collector is a server-style garbage collector, targeted for multiprocessor machines with large memories. It attempts to meet garbage collection (GC) pause time goals with high probability while achieving high throughput. Whole-heap operations, such as global marking, are performed concurrently with the application threads. This prevents interruptions proportional to heap or live-data size.
 
 **When to use:**
+
 Dependent on the following:
 - Application Throughput
 - Pause time
