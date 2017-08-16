@@ -22,7 +22,7 @@ The results from dmesg gave me a whole lot of "Uh oh! That's an error." that con
 ![dmesg results](./evidence/dmesg.png)
 
 
-- *checked syslog* located in /var/log/ 
+- *checked syslog* 
 
 **Results**
 More error messages from kernel again and this time logger showing another Error. I used scp to copy it accross to my laptop for record keeping.
