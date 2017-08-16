@@ -21,7 +21,7 @@ Dependent on the following:
 
 G1 is designed to be a low configuration, low pause collector for large heaps. You do sacrifice some application throughput and of course some heap space in order to meet those low pause time goals. A major design goal is that hopefully you can do this with almost zero configuration.
 
-CMS was also designed to be a fairly low pause collector for small --> large(r) heaps, but arguably it wasn't designed up front for the larger heaps we see today in the wild. It's seen by many to require much more configuration than G1 (or any other collector) and has some nasty 'blow out' failure cases.
+CMS was also designed to be a fairly low pause collector for small --> large(r) heaps, but arguably it wasn't designed up front for the larger heaps. It's seen by many to require much more configuration than G1 (or any other collector) and has some nasty 'blow out' failure cases, not implying G1 doesn't have this problem too.
 
 So, when to use G1?  When configuring CMS gets too hard and/or your heaps are large (2-4GB+) and/or you want to be able to explicitly set pause time goals.
 
