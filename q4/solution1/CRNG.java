@@ -17,6 +17,7 @@ public class CRNG {
                 int freq = 0, count= 0;
                 int avg = 0;
                 
+                // CRITICAL SECTION 
                 synchronized (list) {
                 // list is a synchronised list and operations add and remove are thread-safe
                 list.add(random.nextInt(10) + 1);
@@ -33,6 +34,7 @@ public class CRNG {
                     avg = avg/list.size();
                 }
                 
+
                 System.out.println("avg: " + avg);
 
                 for (int i = 1; i < f_arr.length; i++) {
