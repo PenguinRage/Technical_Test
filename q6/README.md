@@ -22,5 +22,5 @@ First time, using Cassandra, so here it goes.
 * Created table through session.execute and csql
 * Added data through Cassandra driver prepared statements reading in the data with csv python library.
 
-#### Status
+#### Cluster Health Check Status
 ![Cluster Health](./health.png)
