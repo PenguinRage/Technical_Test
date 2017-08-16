@@ -1,5 +1,5 @@
 ## General Programming
-Pretty Straight forward
+Pretty straight forward, below is a guide more or less to compile and run my code.
 
 #### Tools
  - Kotlin
