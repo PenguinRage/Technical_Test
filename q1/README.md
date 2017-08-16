@@ -14,17 +14,7 @@ A recursive script to wc -w all the files.
 
 ```
 
-### Extension Solution
-Used awk to create a hash mapping of alphabetical letters ignoring upper and lowercase size. Alphabetical characters are counted and then printed out to give results and histogram.
-
-##### Executable
-``` bash
-    
-    ./file_hist.sh <file name>
-
-```
-
-### Previous versions
+###### Previous versions
 
 ##### Shell script
 Runnable script named "q1.sh" found in older_versions folder
@@ -38,6 +28,17 @@ Runnable script named "q1.sh" found in older_versions folder
 # wc -w  : counts all the words
 
 find . -name $1 | xargs -I dir find dir -type f | xargs wc -w
+
+
+### Extension Solution
+Used awk to create a hash mapping of alphabetical letters ignoring upper and lowercase size. Alphabetical characters are counted and then printed out to give results and histogram.
+
+##### Executable
+``` bash
+    
+    ./file_hist.sh <file name>
+
+```
 
 ```
 
