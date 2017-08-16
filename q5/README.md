@@ -4,7 +4,7 @@
 
 ``` sql
 SELECT *
-FROM MOVIES
+FROM movies
 WHERE GENRE = 'action';
 ```
 
