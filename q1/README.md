@@ -29,6 +29,7 @@ Runnable script named "q1.sh" found in older_versions folder
 
 find . -name $1 | xargs -I dir find dir -type f | xargs wc -w
 
+```
 
 ### Extension Solution
 Used awk to create a hash mapping of alphabetical letters ignoring upper and lowercase size. Alphabetical characters are counted and then printed out to give results and histogram.
@@ -40,6 +41,6 @@ Used awk to create a hash mapping of alphabetical letters ignoring upper and low
 
 ```
 
-```
+
 
 
