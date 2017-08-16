@@ -5,14 +5,14 @@ on the Critical Sections. i.e since removal/and adding a random number to a list
 
 
 ### Solution 1
-* first solution: just generates the random numbers and when you wish to get the results just type # and press enter to stop threads and will generate the results of min,max,freq and avg of the last 30 RGNs.
+* first solution: just concurrently generates the random numbers and when you wish to get the results just type # and press enter to stop threads and will generate the results of min,max,freq and avg of the last 30 RGNs.
 
 ### Solution 2
 
-* second solution concurrently generates the min,max,freq and avg for the last 30 numbers for any N time where N is the time of the program running. Type # and enter prints the results for the list while threads will wait since mutual exclusion must be guaranteed and then resume generating more RGNs.
+* second solution concurrently generates the RGNS numbers. Type # and enter prints the results for the last 30 RGNS while threads will wait since mutual exclusion must be guaranteed and then resume generating more RGNs.
 
 ### Solution 3
-* I don't want to talk about him. He just keeps generating results for the last 30 RGNs given.
+* I don't want to talk about him. He just keeps generating results for the last 30 RGNs given. Again mutual exclusion guaranteed.
 
 
 ##### Compiling and Execution
