@@ -1,6 +1,6 @@
-### General Administration
+## General Administration
 
-#### Tue, 15th August 2017
+### Tue, 15th August 2017
 
 Once I received the pem file, this afternoon I logged into the EC2 instance with the command.
 
@@ -9,10 +9,11 @@ Once I received the pem file, this afternoon I logged into the EC2 instance with
     sudo ssh -i instaclustr-test-key.pem  ubuntu@54.219.187.53 -p 2222
 ```
 
-##### Health Checks
+#### Health Checks
 Moving on, now that I was inside the EC2 instance I performed the following checks:
 
-- *dmesg* - (display message or driver message) is a command on most Unix-like operating systems that prints the message buffer of the kernel. The output of this command typically contains the messages produced by the device drivers.
+##### dmesg  
+- (display message or driver message) is a command on most Unix-like operating systems that prints the message buffer of the kernel. The output of this command typically contains the messages produced by the device drivers.
 
 
 **Results**
@@ -25,7 +26,7 @@ The results from dmesg gave me a whole lot of "Uh oh! That's an error." that con
 
 
 
-- *checked syslog* 
+##### checked syslog 
 
 **Results**
 
@@ -36,7 +37,8 @@ More error messages from kernel again and this time logger showing another Error
 
 
 
-- *top* - program provides a dynamic real-time view of a running system. In my case I used htop.
+##### top
+- program provides a dynamic real-time view of a running system. In my case I used htop.
 
 
 **Results**
