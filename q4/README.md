@@ -12,7 +12,7 @@ on the Critical Sections. i.e since removal/and adding a random number to a list
 * second solution concurrently generates the min,max,freq and avg for the last 30 numbers for any N time where N is the time of the program running. Type # and enter prints the results for the list while threads will wait since mutual exclusion must be guaranteed and then resume generating more RGNs.
 
 ### Solution 3
-I don't want to talk about him. He just keeps generating results for the last 30 RGNs given.
+* I don't want to talk about him. He just keeps generating results for the last 30 RGNs given.
 
 
 ##### Compiling and Execution
