@@ -23,7 +23,7 @@ G1 is designed to be a low configuration, low pause collector for large heaps. Y
 
 CMS was also designed to be a fairly low pause collector for small --> large(r) heaps, but arguably it wasn't designed up front for the larger heaps. It's seen by many to require much more configuration than G1 (or any other collector) and has some nasty 'blow out' failure cases, not implying G1 doesn't have this problem too.
 
-So, when to use G1?  When configuring CMS gets too hard and/or your heaps are large (2-4GB+) and/or you want to be able to explicitly set pause time goals.
+So, when to use G1?  When configuring CMS gets too hard and/or your heaps are large (2-4GB+) and/or you want to be able to explicitly set pause time goals. CMS is ideal for smaller heaps and when configuration is minimal.
 
 #### Ext: Briefly explain how you might diagnose and fix java application that is failing with *OutOfMemoryError*
 Obviously dependent on the causes as discussed in the Oracle link below and could be attributed to a number of things.
