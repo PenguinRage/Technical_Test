@@ -24,8 +24,7 @@ def create_schema():
     session.execute(
         "CREATE KEYSPACE IF NOT EXISTS movies WITH replication " + "= {'class':'NetworkTopologyStrategy',  'AWS_VPC_US_EAST_1' : 3}  AND durable_writes = true;")
     session.execute("CREATE TABLE IF NOT EXISTS movies.items (" +
-                    "movie_id int PRIMARY KEY," +
-                    "title text," +
+                    "title text PRIMARY KEY," +
                     "release_year int," +
                     "genre text," +
                     "director text" +
@@ -36,13 +35,13 @@ def create_schema():
 def load_data():
     print("Loading data into movies")
     # Open CSV for each row
-    query = "INSERT INTO movies.items (movie_id, title, release_year, genre, director) VALUES (?, ?, ?, ?, ?)"
+    query = "INSERT INTO movies.items (title, release_year, genre, director) VALUES (?, ?, ?, ?)"
     prepared = session.prepare(query)
     uid = 1
     with open('movies.csv') as csvfile:
         reader = csv.DictReader(csvfile)
         for row in reader:
-            session.execute(prepared, (uid, row['title'], int(row['release_year']), row['genre'], row['director']))
+            session.execute(prepared, (row['title'], int(row['release_year']), row['genre'], row['director']))
             uid += 1
     print("Data has been loaded")
     # make a quick check
