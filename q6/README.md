@@ -28,3 +28,4 @@ I am still currently trying other things since I was initially trying for Networ
 ```
 Cannot achieve consistency level LOCAL_ONE info={required_replicas 1 alive_replicas: 0, consistency: LOCAL_ONE}
 ```
+when inserting data.
