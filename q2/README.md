@@ -77,6 +77,7 @@ Next for files with largest filesize
 
 ![find_largefindfile results](./evidence/largest_files.png)
 
+Notably reallybigfile is a REALLY BIG FILE taking approximately 6.3GB
 
 **Other tools used**
 * scp
