@@ -37,7 +37,7 @@ The results from dmesg gave me a whole lot of "Uh oh! That's an error." that con
 
 More error messages from kernel from dmesg again and this time logger showing another Error. I used scp to copy it accross to my laptop for record keeping.
 
-Output : [syslog output](./q2/evidence/syslog)
+Output : [syslog output](./evidence/syslog)
 
 
 #### Checked current processes and Mem Usage
@@ -57,7 +57,7 @@ Output : [syslog output](./q2/evidence/syslog)
 
 Noticed mem usage was high, looked for the source of high usage and determined it to be a python script. Furthermore from the python script I determined the location of the hidden folder *(/var/lib/.instaclustr)* containing the location of the test programs.
 
-Output : [get top 10 process eating memory](./q2/evidence/memusage)
+Output : [get top 10 process eating memory](./evidence/memusage)
 
 ![htop results](./evidence/htop.png)
 
@@ -65,7 +65,7 @@ Output : [get top 10 process eating memory](./q2/evidence/memusage)
 ``` bash
     df -h
 ```
-Output : [df output](./q2/evidence/diskspace)
+Output : [df output](./evidence/diskspace)
 
 Output implies that well something is using most of the secondary memory
 
