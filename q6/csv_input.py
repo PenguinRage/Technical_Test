@@ -22,7 +22,7 @@ def create_schema():
     session.execute("DROP TABLE IF EXISTS movies.items")
     session.execute("DROP KEYSPACE IF EXISTS movies ")
     session.execute(
-        "CREATE KEYSPACE IF NOT EXISTS movies WITH replication " + "= {'class':'SimpleStrategy', 'replication_factor':1};")
+        "CREATE KEYSPACE IF NOT EXISTS movies WITH replication " + "= {'class':'NetworkTopologyStrategy',  'AWS_VPC_US_EAST_1' : 3}  AND durable_writes = true;")
     session.execute("CREATE TABLE IF NOT EXISTS movies.items (" +
                     "movie_id int PRIMARY KEY," +
                     "title text," +
