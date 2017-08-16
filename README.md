@@ -1,4 +1,4 @@
-# Technical Test for Instaclustr
+# Technical Test
 
 Welcome to my Technical Test repository.
 
