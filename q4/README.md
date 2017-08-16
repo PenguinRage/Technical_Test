@@ -2,13 +2,14 @@
 
 There are two solutions in this problem:
 
+
 ### Solution 1
-
-* first solution concurrently generates the min,max,freq and avg for the last 30 numbers for any N time where N is the time of the program running.
-
+* first solution: just generates the random numbers and when you wish to get the results just type # and press enter to leave and generate the results of min,max,freq and avg of the last 30 RGNs.
 
 ### Solution 2
-* second solution: just generates the random numbers and when you wish to get the results just type # and press enter to leave and generate the results of min,max,freq and avg of the last 30 RGNs.
+
+* second solution concurrently generates the min,max,freq and avg for the last 30 numbers for any N time where N is the time of the program running.
+
 
 ##### Compiling and Execution
 
