@@ -1,6 +1,6 @@
 ## Memory Management
 
-##### Explain the difference between CMS and G1GC in java and discuss when it is appropriate to use each method
+#### Explain the difference between CMS and G1GC in java and discuss when it is appropriate to use each method
 The main difference between the two garbage collectors is how they approach collecting garbage. CMS uses a mark and then sweep approach where G1GC basically scans regions of MemBlock sizes for the most Garbage to clean out. More formal definitions given below.
 
 **Concurrent Mark Sweep Collector**
@@ -25,7 +25,7 @@ CMS was also designed to be a fairly low pause collector for small --> large(r) 
 
 So, when to use G1?  When configuring CMS gets too hard and/or your heaps are large (2-4GB+) and/or you want to be able to explicitly set pause time goals.
 
-##### Ext: Briefly explain how you might diagnose and fix java application that is failing with *OutOfMemoryError*
+#### Ext: Briefly explain how you might diagnose and fix java application that is failing with *OutOfMemoryError*
 Obviously dependent on the causes as discussed in the Oracle link below and could be attributed to a number of things.
 [Oracle Documentation](https://docs.oracle.com/javase/8/docs/technotes/guides/troubleshoot/memleaks002.html)
 
