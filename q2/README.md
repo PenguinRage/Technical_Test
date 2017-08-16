@@ -11,6 +11,7 @@ Once I received the pem file, this afternoon I logged into the EC2 instance with
 
 #### Health Checks
 Moving on, now that I was inside the EC2 instance I performed the following checks:
+Note: I use scp to send files containing log file output from EC2 to local. Such logs are stored in evidence subdirectory.
 
 #### Checked kernel messages  
 - (display message or driver message) is a command on most Unix-like operating systems that prints the message buffer of the kernel. The output of this command typically contains the messages produced by the device drivers.
@@ -78,6 +79,7 @@ Next for files with largest filesize
 
 
 **Other tools used**
+* scp
 * netstat
 * vmstat
 * pmap
