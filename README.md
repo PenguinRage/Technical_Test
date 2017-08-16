@@ -1,4 +1,4 @@
-# Interview_challenge
+# Technical Test for Instaclustr
 
 Welcome to my Technical Test repository.
 
