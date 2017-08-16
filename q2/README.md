@@ -12,7 +12,7 @@ Once I received the pem file, this afternoon I logged into the EC2 instance with
 #### Health Checks
 Moving on, now that I was inside the EC2 instance I performed the following checks:
 
-##### dmesg  
+#### dmesg  
 - (display message or driver message) is a command on most Unix-like operating systems that prints the message buffer of the kernel. The output of this command typically contains the messages produced by the device drivers.
 
 
@@ -26,7 +26,7 @@ The results from dmesg gave me a whole lot of "Uh oh! That's an error." that con
 
 
 
-##### checked syslog 
+#### checked syslog 
 
 **Results**
 
@@ -37,7 +37,7 @@ More error messages from kernel again and this time logger showing another Error
 
 
 
-##### top
+#### top
 - program provides a dynamic real-time view of a running system. In my case I used htop.
 
 
