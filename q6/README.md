@@ -1,5 +1,7 @@
 ## Using Cassandra
 
+### Tue, 15th August 2017
+
 First time, using Cassandra, so here it goes.
 
 #### Cluster Setup
@@ -21,4 +23,4 @@ First time, using Cassandra, so here it goes.
 * Added data through Cassandra driver prepared statements reading in the data with csv python library.
 
 #### Comments
-I am still currently trying other things since I was initially trying for NetworkTopologyStrategy and came across issues with Cannot achieve consistency level LOCAL_ONE info={required_replicas 1 alive_replicas: 0, consistency: LOCAL_ONE}
+I am still currently trying other things since I was initially trying for NetworkTopologyStrategy and came across issues with Cannot achieve consistency level LOCAL_ONE info={required_replicas 1 alive_replicas: 0, consistency: LOCAL_ONE} 
