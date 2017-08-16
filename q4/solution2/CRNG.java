@@ -3,7 +3,7 @@ import java.util.*;
 // Concurrent Random Number Generator
 public class CRNG {
     // Using a synchronized List to ensure thread safety and consistent behaviour
-    public static List<Integer> list = new ArrayList<Integer>();
+    public static List<Integer> list = Collections.synchronizedList(new ArrayList<Integer>());
 
     public static class Numthread extends Thread {
         @Override
