@@ -1,0 +1,3 @@
+SELECT *
+FROM MOVIES
+WHERE GENRE = 'action';

@@ -1,0 +1,5 @@
+SELECT DISTINCT c.actor, c.birth_year
+FROM movie_cast c
+INNER JOIN movies m
+ON c.movie = m.title AND c.movie_release_year = m.release_year 
+WHERE m.director = 'Wes Anderson';
