@@ -2,6 +2,8 @@
 
 ### Tue, 15th August 2017
 
+Note: Cassandra cluster was a trial base which has expired.
+
 First time, using Cassandra, so here it goes.
 
 #### Cluster Setup
@@ -24,3 +26,5 @@ First time, using Cassandra, so here it goes.
 
 #### Cluster Health Check Status
 ![Cluster Health](./health.png)
+
+
