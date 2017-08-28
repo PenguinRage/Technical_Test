@@ -9,7 +9,7 @@ cluster = Cluster(
     ],
     load_balancing_policy=DCAwareRoundRobinPolicy(local_dc='AWS_VPC_US_EAST_1'),  # your local data centre
     port=9042,
-    auth_provider=PlainTextAuthProvider(username='iccassandra', password='46b60c31d96514bc1a7f7e79f8a368b4')
+    auth_provider=PlainTextAuthProvider(username='<username>', password='<password>')
 )
 
 session = cluster.connect()
