@@ -1,19 +1,11 @@
 ## Concurrency Programming
-I kinda over thought this one. Since my relative interreptation of Last RGNs is relative to time. End of the Program, N
-time... I came up with a number of answers. Also I initial used synchronised list but I began using the keyword synchronised on list to ensure mutual exclusion
-on the Critical Sections. i.e since removal/and adding a random number to a list should be both ensured single operation with guaranteed exclusion from other threads, including main.
+I kinda over thought this one. Since my relative interreptation of Last RGNs is relative to time. End of the Program, N time... I came up with a number of answers, but decided to stick with one. Also I initial used synchronised list but I began using the keyword synchronised on list to ensure mutual exclusions on the Critical Sections. i.e since removal/and adding a random number to a list must both be ensured a single operation with guaranteed exclusion from other threads, including main.
 
-
-### Solution 1
-* first solution: just concurrently generates the random numbers and when you wish to get the results just type # and press enter to stop threads and will generate the results of min,max,freq and avg of the last 30 RGNs.
-
-### Solution 2
-
-* second solution concurrently generates the RGNS numbers. Type # and enter prints the results for the last 30 RGNS while threads will wait since mutual exclusion must be guaranteed and then resume generating more RGNs.
-
-### Solution 3
-* I don't want to talk about him. He just keeps generating results for the last 30 RGNs given. Again mutual exclusion guaranteed.
-
+### My Solution
+* Generating results for the last 30 RGNs given during the life span of the program. Main continuously prints the results of the last 30RGNs given from N threads. Again mutual exclusion guaranteed through use of synchronised. Since Collections.max and min iterate the array twice, a more optimized approach would be to iterate the array once and do the calculations for all.
+  
+### Prev
+* Just other attempts which are similar but I decided to do differently.
 
 ##### Compiling and Execution
 
@@ -21,7 +13,7 @@ on the Critical Sections. i.e since removal/and adding a random number to a list
 	javac CRNG.java
 	jar -cvmf MANIFEST.MF CRNG.jar CRNG.class CRNG\$Numthread.class	
 
-	# Either pass with args or java Scanner will ask for number of threads
+	# Either pass with args 
 	java -jar CRNG.jar <num of threads>
 
 ```
